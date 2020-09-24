@@ -1,0 +1,30 @@
+.container .out{
+    background-color: lightcoral;
+    outline-color: red;
+    outline-offset: 20px;
+    outline-style: dashed;
+    outline-width: 15px;
+    text-align: center;
+    width: 300px;
+    margin: 10%;
+    border: 20px solid rebeccapurple;
+    position: relative;
+    top: 30%;
+    padding: 2%;
+    
+}
+
+.container .out1{
+    background-color: lightblue;
+    outline-color: blue;
+    outline-offset: 10px;
+    outline-style:  double;
+    outline-width: 7px;
+    text-align: center;
+    width: 300px;
+    margin: 10%;
+
+    border: 20px solid mediumturquoise;
+    position: relative;
+    top: 30%;
+}
